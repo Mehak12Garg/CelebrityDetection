@@ -22,5 +22,5 @@ In this data science and machine learning project, we classify sports personalit
 This Model is deployed on Heroku Server
 
 ## License and Copyright
-© Vishwas Basotra
+© Mehak Garg
 Licensed under the [MIT License](LICENSE).
